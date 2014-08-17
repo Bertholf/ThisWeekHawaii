@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "3289CF831851A75600315BDF"
-               BuildableName = "ThisWeekHawaii.temp_caseinsensitive_rename.app"
+               BuildableName = "ThisWeekHawaii.app"
                BlueprintName = "ThisWeekHawaii.temp_caseinsensitive_rename"
                ReferencedContainer = "container:ThisWeekHawaii.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "3289CFAA1851A75600315BDF"
-               BuildableName = "ThisWeekHawaii.temp_caseinsensitive_renameTests.xctest"
+               BuildableName = "ThisWeekHawaiiTests.xctest"
                BlueprintName = "ThisWeekHawaii.temp_caseinsensitive_renameTests"
                ReferencedContainer = "container:ThisWeekHawaii.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3289CF831851A75600315BDF"
-            BuildableName = "ThisWeekHawaii.temp_caseinsensitive_rename.app"
+            BuildableName = "ThisWeekHawaii.app"
             BlueprintName = "ThisWeekHawaii.temp_caseinsensitive_rename"
             ReferencedContainer = "container:ThisWeekHawaii.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3289CF831851A75600315BDF"
-            BuildableName = "ThisWeekHawaii.temp_caseinsensitive_rename.app"
+            BuildableName = "ThisWeekHawaii.app"
             BlueprintName = "ThisWeekHawaii.temp_caseinsensitive_rename"
             ReferencedContainer = "container:ThisWeekHawaii.xcodeproj">
          </BuildableReference>
@@ -80,7 +80,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3289CF831851A75600315BDF"
-            BuildableName = "ThisWeekHawaii.temp_caseinsensitive_rename.app"
+            BuildableName = "ThisWeekHawaii.app"
             BlueprintName = "ThisWeekHawaii.temp_caseinsensitive_rename"
             ReferencedContainer = "container:ThisWeekHawaii.xcodeproj">
          </BuildableReference>
