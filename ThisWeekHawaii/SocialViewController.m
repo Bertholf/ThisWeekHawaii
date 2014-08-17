@@ -42,15 +42,15 @@
 }
 
 - (void) initTwitter {
-    m_twitter = [STTwitterAPI twitterAPIAppOnlyWithConsumerKey:@"vp8ERaUBmQhVmmgnTSKW4w"
-                                                            consumerSecret:@"oIoLeobZWMj0OSAs54Di9EVrOquGxYtZonf0CvTM"];
+    m_twitter = [STTwitterAPI twitterAPIAppOnlyWithConsumerKey:@"CuSOlGijhAlFs2faVGHjXx9eh"
+                                                            consumerSecret:@"IxtwY5v0VqDRZSPwPb6Dsqk9wz0KIOQNcAorv4HMBhAWbWEs1Y"];
     [self OnClickRefresh:nil];
 }
 
 - (IBAction)OnClickRefresh:(id)sender {
     [UIApplication sharedApplication].networkActivityIndicatorVisible = YES;
     [m_twitter verifyCredentialsWithSuccessBlock:^(NSString *bearerToken) {
-        [m_twitter getUserTimelineWithScreenName:@"marketaing"
+        [m_twitter getUserTimelineWithScreenName:@"@ThisWeekHawaii"
                                   successBlock:^(NSArray *statuses) {
                                       NSLog(@"result %@", [statuses description]);
                                       m_aryResult = [NSMutableArray array];
